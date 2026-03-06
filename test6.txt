@@ -1,1 +1,1 @@
-This is sample file 6 - Modified at remote
+This is sample file 6 - Modified at remote made rmeote commit
