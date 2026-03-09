@@ -1,4 +1,4 @@
 
 This is sample file 2, Modified 2nd file
 Added some test here to create conflict
-Added more cotext - added remote change to create conflict
+Added more cotext - added remote change to create conflict - add one more
