@@ -1,2 +1,2 @@
-test file - added remote change - added remote change
+test file - added remote change - added remote change Remote 3
 added one more change
