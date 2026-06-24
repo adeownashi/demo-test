@@ -1,3 +1,0 @@
-This is sample file 3 - Changes on local
-This is sample file 3 added this line for conflict
-Added local commit
